@@ -1,0 +1,44 @@
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Milibreria.pdb
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Milibreria.dll
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ventanalogin.resources
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ventanaadmin.resources
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ventanauser.resources
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Formbase.resources
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Consultas.resources
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Contenedorprincipal.resources
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Mantenimiento.resources
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Procesos.resources
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Mantenimientocliente.resources
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Mantenimientodeproducto.resources
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Milibreria.dll
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Milibreria.pdb
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Consultas.resources
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Contenedorprincipal.resources
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Formbase.resources
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Mantenimiento.resources
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Mantenimientocliente.resources
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Mantenimientodeproducto.resources
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Procesos.resources
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ventanaadmin.resources
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ventanalogin.resources
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ventanauser.resources
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

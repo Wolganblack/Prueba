@@ -1,0 +1,12 @@
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\Milibreria\bin\Debug\Milibreria.dll
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\Milibreria\bin\Debug\Milibreria.pdb
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\Milibreria\obj\Debug\Milibreria.csproj.CoreCompileInputs.cache
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\Milibreria\obj\Debug\Milibreria.dll
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\Milibreria\obj\Debug\Milibreria.pdb
+C:\Users\B-Learning 3\source\repos\WindowsFormsApp2\Milibreria\obj\Debug\Milibreria.csprojAssemblyReference.cache
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\Milibreria\bin\Debug\Milibreria.dll
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\Milibreria\bin\Debug\Milibreria.pdb
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\Milibreria\obj\Debug\Milibreria.csproj.CoreCompileInputs.cache
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\Milibreria\obj\Debug\Milibreria.dll
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\Milibreria\obj\Debug\Milibreria.pdb
+C:\Users\ALFON\OneDrive\Escritorio\WindowsFormsApp2\Milibreria\obj\Debug\Milibreria.csprojAssemblyReference.cache
